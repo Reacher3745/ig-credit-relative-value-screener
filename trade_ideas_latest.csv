@@ -1,0 +1,5 @@
+Rating,Current_Spread,Zscore_exself,Signal
+AA,0.59,2.522559792,CHEAP (Buy candidate)
+AAA,0.45,2.436244477,CHEAP (Buy candidate)
+BBB,0.99,-2.187148367,RICH (Avoid/Sell candidate)
+A,0.67,-2.844614224,RICH (Avoid/Sell candidate)
